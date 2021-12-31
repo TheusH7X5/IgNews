@@ -1,4 +1,4 @@
-### Tecnologias
+# Tecnologias
 ## Abaixo as tecnologias utilizadas para construção da aplicação
 
 - ReactJS
