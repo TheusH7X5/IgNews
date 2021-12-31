@@ -80,7 +80,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
         year: "numeric",
       }
     ),
-  };
+  }
 
   return {
     props: {
